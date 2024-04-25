@@ -1,6 +1,5 @@
 print("Sample")
-
-#write your views here
+print("Hi this is my first application")
 
 
 
