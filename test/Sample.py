@@ -1,6 +1,4 @@
 print("Sample")
-
-#write your views here
-
+print("This is my new application for the project")
 
 
